@@ -14,3 +14,6 @@ The OS manages hardware resources, users, files, and applications.
 
 ## Process
 A process is a running instance of a program.
+
+## Why This Matters In Cybersecurity
+A SOC Analyst investigates suspicious processes, memory usage, operating systems, and system activity to detect attacks.
